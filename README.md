@@ -47,3 +47,4 @@ update 44 try
 update 45 $usd
 update 46 $euro
 update 47 $usdc
+update 48 $usdt
