@@ -44,3 +44,4 @@ update 41 $slc
 update 42 2
 update 43 $mind
 update 44 try
+update 45 $usd
