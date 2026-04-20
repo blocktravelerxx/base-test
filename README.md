@@ -48,3 +48,4 @@ update 45 $usd
 update 46 $euro
 update 47 $usdc
 update 48 $usdt
+update 49 $xaut
