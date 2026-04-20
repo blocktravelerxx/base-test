@@ -26,3 +26,4 @@ update 23 turkey
 update 24 japan
 update 25 tr
 update 26 $btc
+update 27 $eth
