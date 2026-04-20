@@ -34,3 +34,4 @@ update 31 $xxcoin
 update 32 $fhe
 update 33
 update 34
+update 35 new
