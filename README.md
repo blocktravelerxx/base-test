@@ -41,3 +41,4 @@ update 38 $peaq
 update 39
 update 40 #silencio
 update 41 $slc
+update 42 2
