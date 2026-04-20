@@ -28,3 +28,4 @@ update 25 tr
 update 26 $btc
 update 27 $eth
 update 28 $base
+update 29 $arb
