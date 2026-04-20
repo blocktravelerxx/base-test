@@ -24,3 +24,4 @@ update 21
 update 22 france
 update 23 turkey
 update 24 japan
+update 25 tr
