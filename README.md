@@ -46,3 +46,4 @@ update 43 $mind
 update 44 try
 update 45 $usd
 update 46 $euro
+update 47 $usdc
