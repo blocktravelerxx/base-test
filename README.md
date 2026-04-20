@@ -37,3 +37,4 @@ update 34
 update 35 new
 update 36 111
 update 37 $plume
+update 38 $peaq
