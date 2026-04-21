@@ -75,3 +75,4 @@ update 72 alfaromeo
 update 73 volvo
 update 74 reano
 update 75 duster
+update 76 gg
