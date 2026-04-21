@@ -53,3 +53,4 @@ update 50 $dogbitcoin
 update 51 $dog
 update 52 $doge
 update 53 $loon
+update 54 $apt
