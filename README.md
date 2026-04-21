@@ -58,3 +58,4 @@ update 55 $sui
 update 56 hi frens
 update 57 all is well
 update 58 $ethfi
+update 59 $eigen
