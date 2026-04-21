@@ -51,3 +51,4 @@ update 48 $usdt
 update 49 $xaut
 update 50 $dogbitcoin
 update 51 $dog
+update 52 $doge
