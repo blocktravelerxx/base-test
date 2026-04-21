@@ -67,3 +67,4 @@ update 64 resist
 update 65 hello
 update 66 crypto
 update 67 ss
+update 68 cry
