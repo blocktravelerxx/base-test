@@ -61,3 +61,4 @@ update 58 $ethfi
 update 59 $eigen
 update 60 reset ?
 update 61 tekke
+update 62 $quip
