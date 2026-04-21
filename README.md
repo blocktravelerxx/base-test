@@ -71,3 +71,4 @@ update 68 cry
 update 69 ff
 update 70 oxford
 update 71 madrid
+update 72 alfaromeo
