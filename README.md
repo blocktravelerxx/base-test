@@ -55,3 +55,4 @@ update 52 $doge
 update 53 $loon
 update 54 $apt
 update 55 $sui
+update 56 hi frens
