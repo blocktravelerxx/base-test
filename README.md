@@ -74,3 +74,4 @@ update 71 madrid
 update 72 alfaromeo
 update 73 volvo
 update 74 reano
+update 75 duster
