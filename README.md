@@ -96,3 +96,4 @@ update 93 mırr
 update 94 f
 update 95 kjh
 update 96 hirr
+update 97 kurp
