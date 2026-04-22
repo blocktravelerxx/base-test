@@ -93,3 +93,4 @@ update 90 krc
 update 91 abc
 update 92 lkm
 update 93 mırr
+update 94 f
